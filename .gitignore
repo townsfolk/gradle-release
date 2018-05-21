@@ -1,5 +1,13 @@
+# Ignore all IntelliJ files
+.idea
+*.iml
+*.ipr
+
+# Ignore build directories
 .gradle
 /build/
+/target/
+/out/
 
 # Ignore Gradle GUI config
 gradle-app.setting
